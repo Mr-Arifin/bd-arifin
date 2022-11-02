@@ -3,7 +3,7 @@
 
 
 
-git clone https://github.com/Mr-Arifin/bd-arifin.git
+git clone https://github.com/Mr-Arifin/bd-arifin
 
 cd bd-arifin
 
